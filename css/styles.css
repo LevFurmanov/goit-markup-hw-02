@@ -126,7 +126,7 @@ body{
 /* Section Hero */
 
 .hero{
- background-color:var(--title-text-color); 
+    background-color:var(--title-text-color); 
     text-align: center;
 }
 
