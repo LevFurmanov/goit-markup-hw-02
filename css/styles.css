@@ -14,6 +14,7 @@ body {
   font-size: 16px;
   line-height: 24px;
   color: #2e2f42;
+  background-color: #FFFFFF;
 }
 
 ul li {
@@ -130,6 +131,7 @@ ul li {
 .button-studio:hover,
 .button-studio:focus {
   color: #404bbf;
+  background-color: #404BBF;
 }
 /* First-Section */
 .text-section {
